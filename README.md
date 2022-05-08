@@ -28,6 +28,7 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![android](https://camo.githubusercontent.com/a7c55d315a7eaca2e8a54503acd9c733a439809520240a703462e92f50f11d0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e64726f696425323053747564696f2d3333333333333f7374796c653d666c6174266c6f676f3d616e64726f69642d73747564696f266c6f676f436f6c6f723d23363639393333)
 
 <br/>
 
