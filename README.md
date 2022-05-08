@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Victor.</h2>
 
@@ -13,8 +12,6 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🌐 &nbsp;
@@ -34,9 +31,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vickyprinztheme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickyprinz&theme=buefy&layout=compact" />
+<a href="https://github.com/Vickyprinz">
 </a>
 
 <br/>
@@ -45,9 +40,9 @@
 
 <p align="center">
 </a>
-<a href="https://www.linkedin.com/in/victor-kariuki-40412023a//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/victor-kariuki-40412023a//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vicky%20Prinz-blue?style=flat-square&logo=linkedin"></a>
+</a>
 <a href="mailto:kariukivictor315@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kariukivictor315@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/Vickyprinz)
+⭐️ From [Vicky](https://github.com/Vickyprinz)
